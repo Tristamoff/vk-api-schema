@@ -1,5 +1,5 @@
 {
-  "name": "vkcom/vk-api-schema",
+  "name": "tristamoff/vk-api-schema",
   "description": "VK API JSON Schema",
   "license": "MIT",
   "type": "library",
